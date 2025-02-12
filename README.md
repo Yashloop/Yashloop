@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashloop
-- 👀 I’m interested in python, c, jav
+- 👀 I’m interested in python, c, java
 - 🌱 I’m currently learning java
 
 <!---
