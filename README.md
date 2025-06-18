@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Yashloop
-- 👀 I’m interested in python, c, java
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m @Yasvanth Bala
+
 
 <!---
 Yashloop/Yashloop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
