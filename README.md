@@ -10,10 +10,9 @@
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
+<!-- Profile Views Badge -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Yashloop&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Yashloop?label=Followers&style=for-the-badge&color=7c3aed" alt="GitHub Followers" />
 </p>
 
 </div>
@@ -86,23 +85,6 @@ Email    : yasvanth9688@gmail.com
 </div>
 
 ---
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashloop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashloop&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashloop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashloop&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-</div>
 
 ---
 
@@ -191,40 +173,6 @@ Email    : yasvanth9688@gmail.com
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yashloop/Yashloop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-> ⚠️ **To enable the Snake animation**, add this GitHub Action to your repo:
-> Create file `.github/workflows/snake.yml` with the content below 👇
-
-<details>
-<summary>📋 Click to see snake.yml content</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
