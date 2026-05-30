@@ -12,7 +12,11 @@
 
 
 </div>
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yashloop/Yashloop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 ---
 
 <!-- About Me Section -->
@@ -164,11 +168,7 @@ Email    : yasvanth9688@gmail.com
 ---
 
 <!-- Snake animation -->
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yashloop/Yashloop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
