@@ -26,7 +26,7 @@ Role     : Software Developer
 College  : Velammal Engineering College (ECE)
 CGPA     : 8.54 / 10
 Location : Erode, Tamil Nadu, India 🇮🇳
-Focus    : Android | AI/ML | Full Stack
+Focus    : Full Stack | Android | AI/ML 
 Email    : yasvanth9688@gmail.com
 ```
 
