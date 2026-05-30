@@ -10,10 +10,7 @@
 
 <br/>
 
-<!-- Profile Views Badge -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Yashloop&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-</p>
+
 
 </div>
 
