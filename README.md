@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yasvanth%20Bala%20G&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Android%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yasvanth%20Bala%20G&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer%20%7C%20Android%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" />
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yasvanth+%F0%9F%91%8B;Software+Developer+%26+Problem+Solver+%F0%9F%92%BB;Android+%7C+AI%2FML+%7C+Full+Stack+Dev+%F0%9F%9A%80;Building+Scalable+%26+Smart+Apps+%F0%9F%A4%96;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yasvanth+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Software+Developer+%26+Problem+Solver+%F0%9F%92%BB;Android+Developer+%F0%9F%93%B1;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
